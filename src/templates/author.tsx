@@ -42,6 +42,7 @@ const AuthorMeta = styled.div`
   margin: 0 0 10px 0;
   font-family: Georgia, serif;
   font-style: italic;
+  color: #044e54;
 `;
 
 const AuthorBio = styled.h2`
@@ -54,6 +55,7 @@ const AuthorBio = styled.h2`
   font-weight: 300;
   letter-spacing: 0.5px;
   opacity: 0.8;
+  color: #044e54;
 `;
 
 const Bull = styled.span`

@@ -85,11 +85,11 @@ const Footer: React.FunctionComponent = () => {
             </a>
           )}
 
-          <a href="https://ghost.org" target="_blank" rel="noopener noreferrer">
-            Ghost
+          <a href="https://travelasanindian.com/" target="_blank" rel="noopener noreferrer">
+            Travel As An Indian
           </a>
 
-          <a href="/rss.xml">RSS</a>
+          {/* <a href="/rss.xml">RSS</a> */}
         </SiteFooterNav>
       </div>
     </footer>

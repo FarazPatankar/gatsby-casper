@@ -26,6 +26,7 @@ export const SiteTitle = styled.h1`
   padding: 0;
   font-size: 3.8rem;
   font-weight: 700;
+  color: #044e54;
 `;
 
 export const SiteDescription = styled.h2`
@@ -36,6 +37,7 @@ export const SiteDescription = styled.h2`
   font-weight: 300;
   letter-spacing: 0.5px;
   opacity: 0.8;
+  color: #044e54;
 `;
 
 export const PostFeed = css`
@@ -78,8 +80,7 @@ export const SiteHeader = css`
   padding-bottom: 12px;
   color: #fff;
   /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
-  background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
-  background-size: cover;
+  background: #fff;
 `;
 
 export const SiteHeaderContent = styled.div`

@@ -65,7 +65,7 @@ const NavStyles = css`
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
+    color: #000;
     opacity: 0.8;
   }
 
@@ -144,12 +144,12 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
             <li role="menuitem">
               <Link to="/">Home</Link>
             </li>
-            <li role="menuitem">
+            {/* <li role="menuitem">
               <Link to="/about">About</Link>
-            </li>
-            <li role="menuitem">
+            </li> */}
+            {/* <li role="menuitem">
               <Link to="/tags/getting-started/">Getting Started</Link>
-            </li>
+            </li> */}
           </ul>
         </SiteNavLeft>
         <SiteNavRight>

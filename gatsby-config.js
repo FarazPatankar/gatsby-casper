@@ -2,9 +2,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ghost',
-    description: 'The professional publishing platform',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    title: 'Travel As An Indian Blog',
+    description: 'A blog for the website - Travel As An Indian',
+    siteUrl: 'https://blog.travelasanindian.com/', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://blog.travelasanindian.com/',
       },
     },
     'gatsby-plugin-emotion',

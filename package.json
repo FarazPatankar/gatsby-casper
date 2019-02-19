@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "name": "Travel As An Indian Blog",
+  "description": "Blog for the website Travel As An Indian",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Faraz Patankar <farazpatankar@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",

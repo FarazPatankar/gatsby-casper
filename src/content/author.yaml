@@ -13,3 +13,15 @@
   website: https://ghost.org/
   location: On a plane
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: Faraz Patankar
+  avatar: avatars/faraz.jpg
+  bio: Faraz is a 26 year old human being from Mumbai, India. He created Travel As An Indian to solve his own problems.
+  twitter: farazpatankar13
+  website: https://www.farazpatankar.com/
+  location: Somewhere in South East Asia
+- id: Pritam Sukumar
+  avatar: avatars/pritam.jpg
+  bio: Pritam has been traveling almost full-time for more than three years now. He describes his style of traveling as slow, adventurous and clumsy.
+  twitter: pritamps
+  website: https://pritamsukumar.com/
+  location: Cycling in some part of Iran
